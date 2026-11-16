@@ -179,4 +179,13 @@ ideologies = [
             "newgen": 30
         }
     },
+    {
+        "name": "Goodboyism / Peppaism",
+        "stats": {
+            "mainplot": 34,
+            "globalist": 67,
+            "liberty": 0,
+            "newgen": 82
+        }
+    },
 ];
